@@ -1,4 +1,3 @@
-![Hoshinova](http://www.magnumgroup.co.in/images/utility-management.jpg)
 <p align="centre">
   <h1>
     Hoshinova - all in one server utility
@@ -23,3 +22,4 @@
     Developer: Nin#1111
   </a>
 </p>
+[![Hoshinova][http://www.magnumgroup.co.in/images/utility-management.jpg]]
