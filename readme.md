@@ -10,10 +10,11 @@
   Features
   - Owner only commands (Eval, Reload, etc.)
   - Moderation, Utility, Information commands.
-
+<p align="centre">
 <h1>Installation</h1>
   `npm i` to install all dependencies.
   `node .` to start the project.
+</p>
 <br />
 <p align="centre">
   <a href="https://discord.com/users/838620835282812969">
