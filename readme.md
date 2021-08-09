@@ -22,4 +22,8 @@
     Developer: Nin#1111
   </a>
 </p>
-[![Hoshinova](http://www.magnumgroup.co.in/images/utility-management.jpg)]
+<br />
+  <p>
+    <img src="http://www.magnumgroup.co.in/images/utility-management.jpg" alt="image" width="1500" height="540">
+  </p>
+
