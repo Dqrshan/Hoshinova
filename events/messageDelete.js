@@ -2,7 +2,7 @@ const client = require("../index");
 
 client.on('messageDelete', async (message) => {
     let snipes = client.snipes.get(message.channel.id) || [];
-    if(snipes.length > 10) snipes = snipes.slice(0, 9);
+    if(snipes.length > 10) snipes = snipes.slice(0, 9); // 0 to 9 for 10 messages. Totally upon the user's wish to snipe how much ever messages they want to.
 
     snipes.unshift({
         content: message.content,
@@ -14,5 +14,5 @@ client.on('messageDelete', async (message) => {
     });
 
     client.snipes.set(message.channel.id, snipes);
-    
+
 })
