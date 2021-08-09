@@ -13,8 +13,9 @@
 </p>
 <p align="center">
 <h1>Installation</h1>
-  `npm i` to install all dependencies.
-  `node .` to start the project.
+ 
+  * `npm i` to install all dependencies.
+  * `node .` to start the project.
 </p>
 <br />
 <p align="left">
