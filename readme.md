@@ -11,13 +11,9 @@
   - Owner only commands (Eval, Reload, etc.)
   - Moderation, Utility, Information commands.
 
-<h1>Installation<h1>
-  ```js
-  npm i
-  ``` to install all dependencies.
-  ```js
-  node .
-  ``` to start the project.
+<h1>Installation</h1>
+  `npm i` to install all dependencies.
+  `node .` to start the project.
 <br />
 <p align="centre">
   <a href="https://discord.com/users/838620835282812969">
