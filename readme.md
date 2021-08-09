@@ -4,7 +4,6 @@
     Hoshinova - all in one server utility
   </h1>
 </p>
-<br />
 
   The bot's framework is inspired by https://youtube.com/reconlxx. The bot uses discord.js v13 with slash commands support!
   Features
