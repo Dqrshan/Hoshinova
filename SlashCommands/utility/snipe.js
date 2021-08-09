@@ -14,7 +14,16 @@ module.exports = {
 
         const snipes = client.snipes.get(interaction.channel.id);
         if(!snipes) return interaction.followUp(`Nothing to snipe!`);
-
+        
+        // Use this for multi-channel support, and replace <interaction>.channel to <channel>.
+        /**
+         * let channel;
+         * if(message.mentions.channels.first()){
+         *      channel = message.mentions.channels.first();
+         * } else {
+         *      channel = message.channel;
+         * };
+         */
         const snipe = +args[0] - 1 || 0;
         const sniped = snipes[snipe];
         if(!sniped) return interaction.followUp(`Failed to snipe!`);
