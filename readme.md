@@ -1,15 +1,23 @@
 ![Hoshinova](http://www.magnumgroup.co.in/images/utility-management.jpg)
 <p align="centre">
-  <strong>
+  <h1>
     Hoshinova - all in one server utility
-  </strong>
+  </h1>
 </p>
+<br />
 
   The bot's framework is inspired by https://youtube.com/reconlxx. The bot uses discord.js v13 with slash commands support!
   Features
   - Owner only commands (Eval, Reload, etc.)
   - Moderation, Utility, Information commands.
 
+<h1>Installation<h1>
+  ```js
+  npm i
+  ``` to install all dependencies.
+  ```js
+  node .
+  ``` to start the project.
 <br />
 <p align="centre">
   <a href="https://discord.com/users/838620835282812969">
