@@ -6,7 +6,7 @@
 </p>
 
   The bot's framework is inspired by https://youtube.com/reconlxx. The bot uses discord.js v13 with slash commands support!
-  Features
+  <h3>Features</h3>
   - Owner only commands (Eval, Reload, etc.)
   - Moderation, Utility, Information commands.
 <p align="centre">
