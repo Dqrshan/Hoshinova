@@ -1,1 +1,1 @@
-[Hoshinova](!http://www.magnumgroup.co.in/images/utility-management.jpg)
+![Hoshinova](http://www.magnumgroup.co.in/images/utility-management.jpg)
