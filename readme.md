@@ -8,14 +8,15 @@
   The bot's framework is inspired by https://youtube.com/reconlxx. The bot uses discord.js v13 with slash commands support!
 <p>  
 <h3>Features</h3>
-</p>
+
   * Owner only commands (Eval, Reload, etc.)
   * Moderation, Utility, Information commands.
+</p>
 <p align="centre">
 <h1>Installation</h1>
-</p>
   `npm i` to install all dependencies.
   `node .` to start the project.
+</p>
 <br />
 <p align="centre">
   <a href="https://discord.com/users/838620835282812969">
